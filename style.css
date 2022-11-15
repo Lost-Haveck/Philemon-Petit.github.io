@@ -1,0 +1,66 @@
+
+body {
+    padding: 2%;
+    background-color: rgb(99, 99, 99);
+}
+
+nav {
+
+}
+
+.container-1 {
+    border: 5px gold solid;
+    padding: 1%;
+    margin-left: 0px;
+}
+
+.welcome-text-box {
+   border: solid gold 4px;
+   border-bottom: none;
+   border-right: none;
+   margin-top: 0px;
+   padding: 30px;
+}
+
+.welcome-text {
+    margin-right: 0px;
+    margin-bottom: 40px;
+}
+
+.projects-box {
+    border: solid 4px gold;
+    border-right: none;
+    border-bottom: none;
+    padding: 20px;
+ 
+}
+
+.resume-button{
+    background-color: rgb(99, 99, 99);
+    border: solid gold ;
+    margin-left: 10px;
+    color: white;
+    font-size: 50px;
+    transition: 0.25s;
+    margin-bottom: 50px;
+}
+
+.resume-button:hover {
+    color: gold;
+    border: solid white;
+}
+
+.projects-buttons {
+    border: solid gold 3px;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.projects-buttons:hover {
+    border: solid white;
+
+}
+
+@media (max-width: ) {
+    
+}
